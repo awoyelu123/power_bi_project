@@ -8,57 +8,6 @@ The report will present a high-level business summary tailored for C-suite execu
 
 The work completed for the project is described through 10 Milestones.
 
-Table of Contents
-Milestone 1: Set up the Environment
-Milestone 2: Import the Date into Power BI
-2.1: Load and Transform Orders Table
-2.2: Import and Transform Products Dimension Table
-2.3: Import and Transform the Stores Dimension Table
-2.4: Import and Transform the Customers Table
-Milestone 3: Create the Data Model
-3.1: Create a Date Table
-3.2: Build the Star Schema Data Model
-3.3: Create a Measures Table
-3.4: Create Key Measures
-3.5: Create Date and Geography
-Milestone 4: Set up the Report
-Milestone 5: Build the Customer Detail Page
-5.1: Create Headline Card Visuals
-5.2: Create the Summary Chart
-5.3: Create the Line Chart
-5.4: Create the Top 20 Customers Table
-5.5: Create the top Customer Cards
-5.6: Add a Date Slicer
-Milestone 6: Create an Executive Summary Page
-6.1: Create the Card Visuals
-6.2: Add a Revenue Trending Line Chart
-6.3: Add Donut Charts for Revenue by Country and Store Type
-6.4: Add a Bar Chart of Orders by Product Category
-6.5: Add KPI Visuals
-Milestone 7: Create a Product Detail Page
-7.1: Add Gauge Visuals
-7.2: Plan out the Filter State Cards
-7.3: Add an Area Chart of Revenue by Product Category
-7.4: Add a Top Products Table
-7.5: Add a Scatter Graph of Quantity Sold vs Profit per Item
-7.6: Create a Slicer Toolbar
-Milestone 8: Create a Stores Map Page
-8.1: Add a Map Visual
-8.2: Add a Country Slicer
-8.3: Create a Stores Drillthrough Page
-8.4: Create a Stores Tooltip Page
-Milestone 9: Cross-filtering and Navigation
-9.1: Fix the Cross-filtering
-9.2: Finish the Navigation Bar
-Milestone 10: Create Metrics for Users Outside the Company Using SQL
-10.1: Connect to the SQL Server
-10.2: Check the Table and Column Names
-10.3: Query the Database
-10.3.1: How many staff are there in all of the UK stores?
-10.3.2: Which month in 2022 has had the highest revenue?
-10.3.3: Which German store type had the highest revenue for 2022?
-10.3.4: Create a view where the rows are the store types and the columns are the total sales, percentage of total sales and the count of orders.
-10.3.5: Which product category generated the most profit for the "Wiltshire, UK" region in 2021?
 Milestone 1: Set up the Environment
 A new GitHub repository is created where the the Power BI project and any other associated files will be stored. Then the connection between GitHub and local repository was establish for easy edit and transfer of files.
 
